@@ -20,6 +20,8 @@
   "devDependencies": {
     "@babel/cli": "^7.28.0",
     "@babel/core": "^7.28.0",
-    "@babel/preset-react": "^7.27.1"
+    "@babel/preset-react": "^7.27.1",
+    "imagemin": "^9.0.1",
+    "imagemin-pngquant": "^10.0.0"
   }
 }
